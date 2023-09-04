@@ -7,14 +7,14 @@ Asp.Net Core 6.0 ile Design Patterns
 Bu kurs ile tasarım desenlerinin yapısını, Asp.Net Core ile 15 farklı tasarım desenini ve MsSQL, MySQL, MongoDB, PostgreSQL gibi farklı veri tabanlarını kullanarak gerçek bir proje geliştirmeyi öğrendim.
 
 ## Aşağıda, işlenen konular sunulmaktadır:
- Chain of Responsibility Design Pattern
- CQRS Design Pattern
- Template Method Design Pattern
- Observer Design Pattern
- Unit Of Work Design Pattern
- Repository Design Pattern
- Composite Design Pattern
- Mediator Design Pattern
- Iterator Design Pattern
- Facade Design Pattern
- Decorator Design Pattern
+* Chain of Responsibility Design Pattern
+* CQRS Design Pattern
+* Template Method Design Pattern
+* Observer Design Pattern
+* Unit Of Work Design Pattern
+* Repository Design Pattern
+* Composite Design Pattern
+* Mediator Design Pattern
+* Iterator Design Pattern
+* Facade Design Pattern
+* Decorator Design Pattern
